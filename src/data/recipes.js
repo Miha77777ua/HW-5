@@ -1,7 +1,8 @@
-import Burger from "../images/burger.png";
-import Chicken from "../images/chicken.png";
-import Salad from "../images/salad.png";
-import Tomatoes from "../images/tomatoes.png";
+import Burger from "/src/images/burger.png";
+import Chicken from "/src/images/chicken.png";
+import Salad from "/src/images/salad.png";
+import Tomatoes from "/src/images/tomatoes.png";
+
 
 export default [
   {
